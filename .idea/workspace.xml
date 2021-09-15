@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78a16582-974e-497e-8f18-d8a77976460d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/source/api/handlers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/source/api/handlers.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/spotify/spotify.ts" beforeDir="false" afterPath="$PROJECT_DIR$/source/spotify/spotify.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1yB2260jTWKFhWDzVFscOVhMEG8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78a16582-974e-497e-8f18-d8a77976460d" name="Changes" comment="" />
+      <created>1631710453281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631710453281</updated>
+    </task>
+    <servers />
+  </component>
+</project>
